@@ -1,0 +1,2 @@
+asset_id,name,asset_type,location,criticality,status,last_inspection_date,operating_hours,notes
+ASSET-001,Asset One,Type A,Location A,High,active,2023-01-01,100,First asset
